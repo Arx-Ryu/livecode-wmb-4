@@ -1,0 +1,213 @@
+[2022-06-09 15:12:14.3353404 +0700 +07 m=+32.100050601]:
+	New customer Kemal Roushdy Jenie registered as member 
+[2022-06-09 15:12:18.324335 +0700 +07 m=+36.089045201]:
+	Placed Order 4037200794235010051 for customer Kemal Roushdy Jenie at table T03 
+[2022-06-09 15:12:40.3579968 +0700 +07 m=+58.122707001]:
+	Placed Order but Canceled 
+[2022-06-09 15:13:38.0347482 +0700 +07 m=+115.799458401]:
+	New customer Budiman registered 
+[2022-06-09 15:13:40.0964206 +0700 +07 m=+117.861130801]:
+	Placed Order 2775422040480279449 for customer Budiman at table T01 
+[2022-06-09 15:13:55.2324109 +0700 +07 m=+132.997121101]:
+	Print Bill Order ID 2775422040480279449 
+[2022-06-09 15:14:40.3543442 +0700 +07 m=+178.119054401]:
+	New customer Tina registered 
+[2022-06-09 15:14:42.4638655 +0700 +07 m=+180.228575701]:
+	Placed Order 3510942875414458836 for customer Tina at table T02 
+[2022-06-09 15:15:07.4713406 +0700 +07 m=+205.236050801]:
+	Payment Order ID 3510942875414458836 
+[2022-06-09 15:16:05.1725493 +0700 +07 m=+262.937259501]:
+	Meja T01
+Meja T02
+Meja T03
+Meja T04
+Meja T05
+Meja T06
+Meja T07
+Meja T08
+Meja T09
+Meja T10
+Meja T11
+Meja T12
+Meja T13
+Meja T14
+Meja T15
+Meja T16
+Meja T17
+Meja T18
+Meja T19
+Meja T20
+Meja T21
+Meja T22
+Meja T23
+Meja T24
+Meja T25
+Meja T26
+Meja T27
+Meja T28
+Meja T29
+Meja T30
+ 
+[2022-06-09 15:16:05.1725493 +0700 +07 m=+262.937259501]:
+	M001 - Nasi Goreng | Rp18000 
+M002 - Nasi Telor | Rp12000 
+M003 - Nasi Ayam | Rp16000 
+M004 - Indomie | Rp8000 
+M005 - Teh Tawar | Rp3000 
+M006 - Kopi | Rp4000 
+ 
+[2022-06-09 15:16:05.1725493 +0700 +07 m=+262.937259501]:
+	Id: 5577006791947779410, Name: Kemal Roushdy Jenie, Member: true
+Id: 3916589616287113937, Name: Budiman, Member: false
+Id: 4751997750760398084, Name: Tina, Member: false
+ 
+[2022-06-09 15:16:05.1741432 +0700 +07 m=+262.938853401]:
+	
+TrxId: 4037200794235010051
+TrxDate: 2022-06-09 15:12:18.324335 +0700 +07 m=+36.089045201
+CustomerName: Id: , Name: , Member: false
+TableNum: [Meja T03]
+Detail: [[Id: 8674665223082153551, Menu: M001 - Nasi Goreng | Rp18000 , Quantity: 2 Id: 6129484611666145821, Menu: M005 - Teh Tawar | Rp3000 , Quantity: 3]]
+TrxPaid: [false]
+
+
+TrxId: 2775422040480279449
+TrxDate: 2022-06-09 15:13:40.0964206 +0700 +07 m=+117.861130801
+CustomerName: Id: , Name: , Member: false
+TableNum: [Meja T01]
+Detail: [[Id: 6334824724549167320, Menu: M004 - Indomie | Rp8000 , Quantity: 4 Id: 605394647632969758, Menu: M006 - Kopi | Rp4000 , Quantity: 3 Id: 1443635317331776148, Menu: M003 - Nasi Ayam | Rp16000 , Quantity: 1 Id: 894385949183117216, Menu: M001 - Nasi Goreng | Rp18000 , Quantity: 1]]
+TrxPaid: [false]
+
+
+TrxId: 3510942875414458836
+TrxDate: 2022-06-09 15:14:42.4638655 +0700 +07 m=+180.228575701
+CustomerName: Id: , Name: , Member: false
+TableNum: [Meja T02]
+Detail: [[Id: 7504504064263669287, Menu: M001 - Nasi Goreng | Rp18000 , Quantity: 1 Id: 1976235410884491574, Menu: M005 - Teh Tawar | Rp3000 , Quantity: 2]]
+TrxPaid: [false]
+
+ 
+[2022-06-09 16:25:16.9545173 +0700 +07 m=+3.571814401]:
+	Open Table Status 
+[2022-06-09 16:25:50.5624057 +0700 +07 m=+37.179702801]:
+	====================================================================================================
+TABLE DATA
+Meja T01
+Meja T02
+Meja T03
+Meja T04
+Meja T05
+Meja T06
+Meja T07
+Meja T08
+Meja T09
+Meja T10
+Meja T11
+Meja T12
+Meja T13
+Meja T14
+Meja T15
+Meja T16
+Meja T17
+Meja T18
+Meja T19
+Meja T20
+Meja T21
+Meja T22
+Meja T23
+Meja T24
+Meja T25
+Meja T26
+Meja T27
+Meja T28
+Meja T29
+Meja T30
+
+====================================================================================================
+MENU DATA
+M001 - Nasi Goreng | Rp18000 
+M002 - Nasi Telor | Rp12000 
+M003 - Nasi Ayam | Rp16000 
+M004 - Indomie | Rp8000 
+M005 - Teh Tawar | Rp3000 
+M006 - Kopi | Rp4000 
+
+====================================================================================================
+CUSTOMER DATA
+Id: 4037200794235010051, Name: Kemal Roushdy Jenie, Member: true
+Id: 2933568871211445515, Name: Samuel Maynard, Member: true
+Id: 2740103009342231109, Name: Elia Samuel, Member: true
+Id: 5486140987150761883, Name: Fajar Setiawan, Member: false
+Id: 2601737961087659062, Name: Niqma Rozalia, Member: false
+Id: 2227583514184312746, Name: Fira Faiza Tertia, Member: false
+Id: 8505906760983331750, Name: Irsalina Layalia S, Member: false
+Id: 6971241403795498694, Name: Vidya Aisya, Member: false
+
+====================================================================================================
+TRANSACTION DATA
+
+TrxId: 4751997750760398084
+TrxDate: 2022-06-09 16:25:13.3860742 +0700 +07 m=+0.003371301
+CustomerName: Id: 4037200794235010051, Name: Kemal Roushdy Jenie, Member: true
+TableNum: [Meja T29]
+Detail: [[Id: 3916589616287113937, Menu: M002 - Nasi Telor | Rp12000 , Quantity: 2 Id: 6334824724549167320, Menu: M005 - Teh Tawar | Rp3000 , Quantity: 2 Id: 605394647632969758, Menu: M004 - Indomie | Rp8000 , Quantity: 10 Id: 1443635317331776148, Menu: M006 - Kopi | Rp4000 , Quantity: 10 Id: 894385949183117216, Menu: M003 - Nasi Ayam | Rp16000 , Quantity: 1 Id: 2775422040480279449, Menu: M006 - Kopi | Rp4000 , Quantity: 1]]
+TrxPaid: [false]
+
+
+TrxId: 3328451335138149956
+TrxDate: 2022-06-09 16:25:13.3860742 +0700 +07 m=+0.003371301
+CustomerName: Id: 2933568871211445515, Name: Samuel Maynard, Member: true
+TableNum: [Meja T15]
+Detail: [[Id: 4324745483838182873, Menu: M003 - Nasi Ayam | Rp16000 , Quantity: 7 Id: 2610529275472644968, Menu: M006 - Kopi | Rp4000 , Quantity: 7 Id: 2703387474910584091, Menu: M002 - Nasi Telor | Rp12000 , Quantity: 13 Id: 6263450610539110790, Menu: M005 - Teh Tawar | Rp3000 , Quantity: 13 Id: 2015796113853353331, Menu: M001 - Nasi Goreng | Rp18000 , Quantity: 2 Id: 1874068156324778273, Menu: M005 - Teh Tawar | Rp3000 , Quantity: 2]]
+TrxPaid: [false]
+
+
+TrxId: 1460320609597786623
+TrxDate: 2022-06-09 16:25:13.3860742 +0700 +07 m=+0.003371301
+CustomerName: Id: 2740103009342231109, Name: Elia Samuel, Member: true
+TableNum: [Meja T22]
+Detail: [[Id: 6941261091797652072, Menu: M003 - Nasi Ayam | Rp16000 , Quantity: 12 Id: 1905388747193831650, Menu: M006 - Kopi | Rp4000 , Quantity: 12 Id: 7981306761429961588, Menu: M004 - Indomie | Rp8000 , Quantity: 6 Id: 6426100070888298971, Menu: M006 - Kopi | Rp4000 , Quantity: 6 Id: 4831389563158288344, Menu: M002 - Nasi Telor | Rp12000 , Quantity: 6 Id: 261049867304784443, Menu: M005 - Teh Tawar | Rp3000 , Quantity: 6]]
+TrxPaid: [false]
+
+
+TrxId: 2568779411109623071
+TrxDate: 2022-06-09 16:25:13.3865953 +0700 +07 m=+0.003892401
+CustomerName: Id: 5486140987150761883, Name: Fajar Setiawan, Member: false
+TableNum: [Meja T05]
+Detail: [[Id: 545291762129038907, Menu: M004 - Indomie | Rp8000 , Quantity: 8 Id: 6382800227808658932, Menu: M006 - Kopi | Rp4000 , Quantity: 8 Id: 2781055864473387780, Menu: M004 - Indomie | Rp8000 , Quantity: 11 Id: 1598098976185383115, Menu: M006 - Kopi | Rp4000 , Quantity: 11 Id: 4990765271833742716, Menu: M004 - Indomie | Rp8000 , Quantity: 7 Id: 5018949295715050020, Menu: M006 - Kopi | Rp4000 , Quantity: 7]]
+TrxPaid: [false]
+
+
+TrxId: 9010467728050264449
+TrxDate: 2022-06-09 16:25:13.3865953 +0700 +07 m=+0.003892401
+CustomerName: Id: 2601737961087659062, Name: Niqma Rozalia, Member: false
+TableNum: [Meja T11]
+Detail: [[Id: 7273596521315663110, Menu: M001 - Nasi Goreng | Rp18000 , Quantity: 1 Id: 3337066551442961397, Menu: M005 - Teh Tawar | Rp3000 , Quantity: 1 Id: 8121576815539813105, Menu: M003 - Nasi Ayam | Rp16000 , Quantity: 2 Id: 2740376916591569721, Menu: M006 - Kopi | Rp4000 , Quantity: 2 Id: 8249030965139585917, Menu: M003 - Nasi Ayam | Rp16000 , Quantity: 5 Id: 898860202204764712, Menu: M006 - Kopi | Rp4000 , Quantity: 5]]
+TrxPaid: [false]
+
+
+TrxId: 3950896730125624717
+TrxDate: 2022-06-09 16:25:13.3865953 +0700 +07 m=+0.003892401
+CustomerName: Id: 2227583514184312746, Name: Fira Faiza Tertia, Member: false
+TableNum: [Meja T18]
+Detail: [[Id: 2873287401706343734, Menu: M003 - Nasi Ayam | Rp16000 , Quantity: 5 Id: 8603989663476771718, Menu: M006 - Kopi | Rp4000 , Quantity: 5 Id: 6842348953158377901, Menu: M004 - Indomie | Rp8000 , Quantity: 5 Id: 7388428680384065704, Menu: M006 - Kopi | Rp4000 , Quantity: 5 Id: 6735196588112087610, Menu: M004 - Indomie | Rp8000 , Quantity: 5 Id: 1687184559264975024, Menu: M006 - Kopi | Rp4000 , Quantity: 5]]
+TrxPaid: [false]
+
+
+TrxId: 6556961545928831643
+TrxDate: 2022-06-09 16:25:13.3871252 +0700 +07 m=+0.004422301
+CustomerName: Id: 8505906760983331750, Name: Irsalina Layalia S, Member: false
+TableNum: [Meja T24]
+Detail: [[Id: 837825985403119657, Menu: M004 - Indomie | Rp8000 , Quantity: 4 Id: 4548432111829895923, Menu: M006 - Kopi | Rp4000 , Quantity: 4 Id: 8549944162621642512, Menu: M004 - Indomie | Rp8000 , Quantity: 3 Id: 8807817071862113702, Menu: M006 - Kopi | Rp4000 , Quantity: 3 Id: 3209308858241334655, Menu: M003 - Nasi Ayam | Rp16000 , Quantity: 8 Id: 6371863560482907257, Menu: M006 - Kopi | Rp4000 , Quantity: 8]]
+TrxPaid: [false]
+
+
+TrxId: 5944830206637008055
+TrxDate: 2022-06-09 16:25:13.3871252 +0700 +07 m=+0.004422301
+CustomerName: Id: 6971241403795498694, Name: Vidya Aisya, Member: false
+TableNum: [Meja T08]
+Detail: [[Id: 3724427934598140041, Menu: M004 - Indomie | Rp8000 , Quantity: 6 Id: 1205043859388862788, Menu: M006 - Kopi | Rp4000 , Quantity: 6 Id: 9093919513921919021, Menu: M004 - Indomie | Rp8000 , Quantity: 4 Id: 8267293389953062911, Menu: M006 - Kopi | Rp4000 , Quantity: 4 Id: 2970700287221458280, Menu: M002 - Nasi Telor | Rp12000 , Quantity: 10 Id: 6651414131918424343, Menu: M005 - Teh Tawar | Rp3000 , Quantity: 10]]
+TrxPaid: [false]
+
+
+ 
